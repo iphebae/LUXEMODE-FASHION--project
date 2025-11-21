@@ -16,3 +16,6 @@ DOM Structure: Show the structure of the website using the Document Object Model
 
 A simple and functional Fashion House Management System designed to help manage customers, orders, styles and payments.  
 This project was created to demonstrate basic programming skills, problem-solving abilities and real-world application of software concepts.
+
+
+https://iphebae.github.io/LUXEMODE-FASHION--project/
